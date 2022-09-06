@@ -46,6 +46,8 @@ I can interact with a small team, create branches and pull requests. I use scss 
 
 ## Code example
 
+Creating a tab switcher on a website:
+
 ```
  $("ul.catalog__tabs").on("click", "li:not(.catalog__tab_active)", function() {
         $(this)
@@ -59,3 +61,5 @@ I can interact with a small team, create branches and pull requests. I use scss 
             .addClass("catalog__content_active");
     });
 ```
+
+---
