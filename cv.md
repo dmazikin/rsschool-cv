@@ -63,3 +63,12 @@ Creating a tab switcher on a website:
 ```
 
 ---
+
+## Courses:
+
+1. Landing the layout and creating themes on CMS WordPress. **(author Ivan Petrechenko)**
+2. The Complete JavaScript + React Course - From Zero to Result. **(author Ivan Petrechenko)**
+3. WEB developer 2022. **(author Ivan Petrechenko)**
+4. Deep Dive into JavaScript. **(author Ivan Petrechenko)**
+5. Practical JavaScript (Advanced). **(author Ivan Petrechenko)**
+6. WEBSITE DEVELOPER | Tariff "FULL FILLING". Web start 14.0 | Stream from June 16.**(author Artem Islamov)**
