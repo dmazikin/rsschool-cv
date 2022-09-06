@@ -74,3 +74,17 @@ Creating a tab switcher on a website:
 6. WEBSITE DEVELOPER | Tariff "FULL FILLING". Web start 14.0 | Stream from June 16.**(author Artem Islamov)**
 
 ---
+
+## Languages:
+
+1. Russian - Native
+2. English - (А2) **I also study every day**
+
+---
+
+## Projects
+
+1. **academic project** - https://github.com/dmazikin/tour_plan
+2. **academic project** - https://github.com/dmazikin/uber
+3. **academic project** - https://github.com/dmazikin/puls
+4. **personal website** - https://github.com/dmazikin/dmitry-mazikin
