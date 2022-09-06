@@ -62,6 +62,15 @@ Creating a tab switcher on a website:
     });
 ```
 
+Codewars start coding:
+
+```
+function multiplication(a, b) {
+    let result = a * b
+    return result;
+}
+```
+
 ---
 
 ## Courses:
