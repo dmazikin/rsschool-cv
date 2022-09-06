@@ -72,3 +72,5 @@ Creating a tab switcher on a website:
 4. Deep Dive into JavaScript. **(author Ivan Petrechenko)**
 5. Practical JavaScript (Advanced). **(author Ivan Petrechenko)**
 6. WEBSITE DEVELOPER | Tariff "FULL FILLING". Web start 14.0 | Stream from June 16.**(author Artem Islamov)**
+
+---
